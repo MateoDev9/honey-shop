@@ -1,0 +1,6 @@
+# Material comercial y de trabajo: no se publica
+Docs/
+Code/backup/
+Code/assets/
+.playwright-cli/
+.tmp_pdf_builder.py
